@@ -1,0 +1,12 @@
+
+class inputLayer(object):
+    def _init_(self, size):
+        self.size = size
+        self.neuron[size]
+class weights(object):
+    def _init(self, size)
+        self.size = size
+        self.weights_value[size]
+        
+
+        
